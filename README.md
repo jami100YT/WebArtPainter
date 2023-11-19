@@ -2,11 +2,12 @@
 
 WebArtPainter is a Python program that allows you to create artistic images directly on websites. With the ability to customize your color palette using RGB codes, you can bring your creative vision to life effortlessly.
 
+### Note: The runtime of the program may vary based on the resolution of the input image. For a standard resolution of 256 * 256 pixels, the process may take up to two hours.
+
+
 ## Features:
 
 - **Web-based Art Creation**: Generate impressive artwork directly on websites with ease.
-
-- **Customizable Color Palette**: Tailor your color choices by inputting RGB codes, enabling the creation of unique and vibrant images.
 
 - **Interruptible Process**: Press `Esc` at any time to gracefully exit the program.
 
